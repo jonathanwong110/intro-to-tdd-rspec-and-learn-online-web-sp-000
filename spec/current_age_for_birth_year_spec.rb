@@ -8,5 +8,5 @@ describe "current_age_for_birth_year method" do
   end
 end
 
-def current_age_for_birth_year(19)
+def current_age_for_birth_year
 end
